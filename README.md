@@ -11,7 +11,9 @@ Tenho experiência prática em **programação** adquirida por meio de projetos 
 O foco aqui é **oferecer materiais que possam servir de referência para estudo**, em paralelo eu demonstro minhas habilidades para análises profissionais.
 
 
-Portanto interessados, aqui estou eu mostrando meu potencial! Estou pronto para contribuir de forma significativa em futuras oportunidades de contratação!
+Portanto interessados, aqui estou eu mostrando meu potencial! 
+
+Estou pronto para contribuir de forma significativa em futuras oportunidades de contratação!
 
 ---
 
