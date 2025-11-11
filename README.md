@@ -18,4 +18,4 @@ Estou pronto para contribuir de forma significativa em futuras oportunidades de 
 ---
 
 ## Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabionzaga&show_icons=true&theme=codeSTACKr)](https://)_)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabionzaga&show_icons=true&theme=codeSTACKr)](https://)
