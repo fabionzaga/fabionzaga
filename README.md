@@ -1,21 +1,20 @@
-# Um pouco sobre mim
+# Fábio – Desenvolvedor Backend em Formação
 
-Oi! 👋
+🚀 Em transição para TI, focado em desenvolvimento backend.  
+Projetos práticos em Java, Python e SQL, incluindo APIs, integração com bancos de dados e automação de processos.
 
-Me chamo **Fábio**, tenho 37 anos e atualmente busco ingressar na área de **TI**.
+💻 Tecnologias e ferramentas:
+- Linguagens: Java, Python, C++  
+- Banco de dados: SQL, MongoDB  
+- Desenvolvimento Web: HTML, CSS, JavaScript  
+- Versionamento: Git / GitHub  
+- Ambiente: Windows, Linux
 
-Sou motivado pelo desejo de **aprender**, dominar novas habilidades e assim prosseguir meu desenvolvimento profissional.
+📂 Aqui você encontrará:
+- Repositórios de projetos pessoais e exercícios de programação  
+- APIs simples para prática de backend  
+- Exemplos de integração com banco de dados  
+- Pequenos projetos full-stack para estudo e referência
 
-Tenho experiência prática em **programação** adquirida por meio de projetos pessoais, cursos de programação e desenvolvimento web.
-
-O foco aqui é **oferecer materiais que possam servir de referência para estudo**, em paralelo eu demonstro minhas habilidades para análises profissionais.
-
-
-Portanto interessados, aqui estou eu mostrando meu potencial! 
-
-Estou pronto para contribuir de forma significativa em futuras oportunidades de contratação!
-
----
-
-## Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabionzaga&show_icons=true&theme=codeSTACKr)](https://)
+🎯 Objetivo:
+Demonstrar habilidades práticas e evolução contínua, com foco em contribuir para projetos reais de TI.
